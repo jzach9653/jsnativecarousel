@@ -1,0 +1,9 @@
+body {
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Orelo-sw-bi', serif;
+  background: #000;
+}
