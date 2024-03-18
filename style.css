@@ -15,3 +15,7 @@ body {
   &.dragging {
     cursor: grabbing;
   }
+
+  &--wrap {
+    white-space: nowrap;
+  }
