@@ -19,3 +19,9 @@ body {
   &--wrap {
     white-space: nowrap;
   }
+
+  &--item {
+    display: inline-block;
+    width: 30vw;
+    padding: 3vw;
+    user-select: none;
