@@ -44,3 +44,14 @@ body {
         transform-origin: center;
       }
     }
+
+    
+    h2 {
+      position: absolute;
+      z-index: 1;
+      bottom: 1.8vw;
+      font-size: 6vw;
+      bottom: 1vw;
+      color: #fff;
+    }
+  }
