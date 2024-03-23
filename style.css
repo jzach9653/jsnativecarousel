@@ -55,3 +55,14 @@ body {
       color: #fff;
     }
   }
+
+
+  &--progress {
+    position: fixed;
+    z-index: 2;
+    pointer-events: none;
+    bottom: 2vw;
+    width: 20vw;
+    left: 3vw;
+    height: 1px;
+    background: rgba(255, 255, 255, .2);
